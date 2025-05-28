@@ -1,25 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a board game inspired by the movie Looper.
 
-Things you may want to cover:
+John has to be convinced by Sarah that she will take care of her telekinetic child before John's looper takes him down.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+Turn based game where a player moves on the count of dice or acts with action cards during their turn
 
 * ...
 # looper
